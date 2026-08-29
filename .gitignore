@@ -1,0 +1,26 @@
+# Fichiers compilés
+*.o
+*.out
+*.exe
+*.h.gch
+*aes
+*run_tests
+
+# Exécutables
+programme
+a.out
+
+# Dossiers de build
+build/
+bin/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers de l'éditeur
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
