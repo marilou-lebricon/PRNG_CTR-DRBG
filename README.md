@@ -25,12 +25,11 @@ Tous les fichiers suivants implémentent les différentes étapes de AES-256 :
 - tables.c
 Le CTR-DRBG s'appuie donc sur une implémentation d'AES pour générer les données.
 
-
 **Commandes pour le terminal :**
-cd ~/Documents/CTR-DRBG/aes_ctr_drbg_project
-make *compilation des fichiers .c*
-./aes *lancement du générateur*
-./test/run_tests *lancement des tests*
+cd ~/Documents/CTR-DRBG/aes_ctr_drbg_project  
+make *compilation des fichiers .c*  
+./aes *lancement du générateur*  
+./test/run_tests *lancement des tests*  
 
 
 
